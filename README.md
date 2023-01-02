@@ -1,7 +1,5 @@
 # WEB_Study
 
-web
-
 + 127.0.01.1
   + internet protocol address
   + 웹 브라우저가 설치되어 있는 컴퓨터를 가리키는 주소
