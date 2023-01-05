@@ -23,7 +23,7 @@
   </style>
 
 
-  + first라는 id를 가진 모든 객체 스타일 변경
++ first라는 id를 가진 모든 객체 스타일 변경
   <style>
           #first{
               color: blue;
