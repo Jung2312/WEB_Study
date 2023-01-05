@@ -15,6 +15,7 @@
 
 + 클래스는 그룹핑, id는 식별자(중복X)
 
+
 + js라는 클래스를 가진 모든 객체 스타일 변경
   <style>
           .js{ 
@@ -23,12 +24,14 @@
   </style>
 
 
+
 + first라는 id를 가진 모든 객체 스타일 변경
   <style>
           #first{
               color: blue;
           } 
   </style>
+
 
 
 + span 태그를 가진 객체 스타일 변경
