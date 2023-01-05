@@ -11,3 +11,30 @@
 + file
   + 웹서버 개입 안함
   + 웹브라우저가 직접 오픈
+
+
++ 클래스는 그룹핑, id는 식별자(중복X)
+
++ js라는 클래스를 가진 모든 객체 스타일 변경
+  <style>
+          .js{ 
+              color: red;
+          }
+  </style>
+
+
+  + first라는 id를 가진 모든 객체 스타일 변경
+  <style>
+          #first{
+              color: blue;
+          } 
+  </style>
+
+
++ span 태그를 가진 객체 스타일 변경
+  <style>
+          span{
+            color: green;
+          }
+  </style>
+        
